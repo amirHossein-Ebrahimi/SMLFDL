@@ -13,6 +13,14 @@ Feature vectors has been prepared by four-level `spatial pyramid`, dense `DAISY`
 As article proposed SMLFDL are faster in predictions and converge in lower epochs.  
 <sub>code for features will be added soon.</sub>
 
+
+## Highlights:
+- Inspired by the feedback mechanism in cybernetics, a novel discriminative dictionary learning framework, named support vector machines (SVMs) multi-class loss feedback based discriminative dictionary learning (SMLFDL) is proposed to learn a dictionary while training SVMs. As far as we know, it is the first time that the feedback mechanism in cybernetics is adopted for constructing dictionary learning model.
+
+- SMLFDL further employ the Fisher discrimination criterion on the coding coefficients under -norm constraint to make the coding coefficients have small intra-class scatter but big inter-class scatter for countering intra-class variability of datasets.
+
+- An efficient and practical SMLFDL optimization algorithm is presented to learn a dictionary while training SVMs. Experimental results on several widely used image databases show that SMLFDL can achieve a competitive performance with other state-of-the-art methods on classification task.
+
 ## Notes: 
 **The original article was developed in matlab**
 
