@@ -24,7 +24,7 @@ As article proposed SMLFDL are faster in predictions and converge in lower epoch
 ## Notes: 
 **The original article was developed in matlab**
 
-The [report file](https://github.com/amirHossein-Ebrahimi/SMLFDL/blob/master/SMLFDL%20report.pdf) is an over-view showing precedures and some figures and didn't published anywhere, it must not be refernece any where, for refernece use [original article][SMLFDL_article]
+The [report file](https://github.com/realamirhe/SMLFDL/blob/master/SMLFDL%20report.pdf) is an over-view showing precedures and some figures and didn't published anywhere, it must not be refernece any where, for refernece use [original article][SMLFDL_article]
 
 
 
